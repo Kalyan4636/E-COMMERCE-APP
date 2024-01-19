@@ -14,6 +14,10 @@ I've created a basic e-commerce webpage using HTML, CSS, and JavaScript. It's a 
 
 🔗 GitHub Repository
 
+# SAMPLE OUTPUT 
+![Screenshot (1756)](https://github.com/Kalyan4636/E-COMMERCE-APP/assets/79601235/e22f7a96-f6c9-4fbd-b50a-4d7945f97680)
+
+
 # Happy coding! 🚀✨
 
 #webdevelopment #html #css #javascript #coding #ecommerce #frontenddevelopment
